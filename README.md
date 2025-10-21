@@ -1,16 +1,15 @@
-## Hi there 👋
+# 
+## プロフィール
+### 氏名:田子山　想佑 (たごやま　そうすけ)
+### 生年月日:2006年11月23日
+## 経歴
+### 2022　4月　鹿児島情報高等学校　入学
+### 2025　3月　鹿児島情報高等学校　卒業
+### 2025　4月　鹿児島キャリアデザイン専門学校　入学
+### 2027　3月　鹿児島キャリアデザイン専門学校　卒業予定
+## 持っているスキル
+### asdf
+## 趣味・はまっていること
+### ゲーム(StreetFighter 6, ELDEN LING)
+小さいころからゲームをするのが好きで
 
-<!--
-**tagoya3/tagoya3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
